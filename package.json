@@ -26,7 +26,7 @@
     "@types/jsdom": "^20.0.1",
     "@types/marked": "^4.0.8",
     "@types/node": "^18.11.12",
-    "@vicons/antd": "^0.12.0",
+    "@vicons/antd": "^0.13.0",
     "@vicons/carbon": "^0.12.0",
     "@vicons/fa": "^0.12.0",
     "@vicons/fluent": "^0.12.0",
